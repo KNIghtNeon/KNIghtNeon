@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KNIghtNeon
-- 👀 I’m interested in ..sports programming and web developement.
-- 🌱 I’m currently learning ..MongoDB.
-- 💞️ I’m looking to collaborate on .web dev based project..
+- 👀 I’m a Full-Stack/Backend Software Developer
+- 💞️ I’m looking to collaborate on full stack open source projects 
 - 📫 How to reach me ..sudhanshurai1901@gmail.com.
 
 <!---
